@@ -1,7 +1,7 @@
 # mini-spamc-client
-Small and robust spamassassin client in javascript
+Small and robust spamassassin client in javascript.
 
-this module connects to spamd daemon. It is able to get reports from a raw String email.
+This module connects to spamd daemon. It is able to get reports from a raw String email.
 
 ## Initial Setup
 Before you need to have spamassassin installed:
