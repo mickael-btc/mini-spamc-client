@@ -1,0 +1,16 @@
+{
+  "name": "mini-spamc-client",
+  "version": "1.0.0",
+  "description": "Small and robust spamassassin client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickael-btc/mini-spamc-client.git"
+  },
+  "author": "Mickael Bobovitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickael-btc/mini-spamc-client/issues"
+  },
+  "homepage": "https://github.com/mickael-btc/mini-spamc-client#readme"
+}
