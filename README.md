@@ -79,3 +79,6 @@ Response example:
   ]
 }
 ```
+## TODO
+- add error messages
+- add ability to tell spamassassin if message is spam or not
